@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">直播录制助手</string>
+    <string name="notification_channel_name">录制服务</string>
+    <string name="notification_channel_desc">直播录制后台服务通知</string>
+    <string name="notification_title">直播录制助手运行中</string>
+    <string name="notification_content">正在监控直播间状态...</string>
+</resources>

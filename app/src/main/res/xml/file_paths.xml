@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 应用专属外部存储目录 -->
+    <external-files-path name="external_files" path="." />
+    <external-files-path name="liverecorder" path="LiveRecorder/" />
+
+    <!-- 应用专属内部存储 -->
+    <files-path name="files" path="." />
+
+    <!-- 外部存储根目录（Android 10 及以下需要） -->
+    <external-path name="external" path="." />
+
+    <!-- 外部存储公共目录（需 MANAGE_EXTERNAL_STORAGE 权限） -->
+    <external-path name="external_storage" path="." />
+
+    <!-- 缓存目录 -->
+    <external-cache-path name="external_cache" path="." />
+    <cache-path name="cache" path="." />
+</paths>
